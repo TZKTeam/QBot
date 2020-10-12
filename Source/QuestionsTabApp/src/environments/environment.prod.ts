@@ -1,12 +1,12 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://mtzaqbot.azurewebsites.net/api/Request/",
-    selfUrl: "https://mtzaqbot-questions.azurewebsites.net",
+    apiBaseUrl: "https://mtzademoqbot.azurewebsites.net/api/Request/",
+    selfUrl: "https://mtzademoqbot-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
-        tenantId: "aa81ea33-cf73-444b-b305-006b188a8fb4",
-        clientId: "83ab00f9-0dd5-4da0-a57b-5deaaf6ffba8",
+        tenantId: "cab2f6ad-c37f-48f6-bb53-3bb35a150091",
+        clientId: "386e13d8-0f7c-4226-a122-446901e4fa84",
         redirectUri: "/app-silent-end",
         cacheLocation: "localStorage",
         navigateToLoginRequestUrl: false,
