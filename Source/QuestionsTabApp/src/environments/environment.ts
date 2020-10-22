@@ -1,7 +1,7 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://qbottesting.azurewebsites.net/api/Request/",
-     selfUrl: "https://qbottesting-questions.azurewebsites.net",
+    apiBaseUrl: "https:/qbottesting.azurewebsites.net/api/Request/",
+     selfUrl: "https:/qbottesting-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
